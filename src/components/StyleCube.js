@@ -25,15 +25,6 @@ export const Image = styled.div`
     background-position: center;
 `;
 
-export const Image1 = styled.div`
-    height: 120px;
-
-    background-image: url(${(aqui1) => aqui1.src});
-
-    background-size: cover;
-    background-position: center;
-`;
-
 export const Title = styled.h1``;
 
 export const Description = styled.p``;
