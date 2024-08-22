@@ -7,71 +7,61 @@ function Prod() {
             id: 0,
             title: "Sherek Bugado",
             image: "../../public/Sherek_Face_Bugado.jpg",
-            description:
-                "seu madrogas cortano cabelo do seo barriga muito loko vida lokaaaaaaaaaaaa",
+            description: "Lore Ipsum",
         },
         {
             id: 1,
             title: "Sherek Mexicano",
             image: "../../public/Sherek_Doente.png",
-            description:
-                "seu madrogas vai descer o cacete no koichi agora to ate vendo slk",
+            description: "Lore Ipsum",
         },
         {
             id: 2,
             title: "Sherek Bugado",
             image: "../../public/Sherek_Face_Bugado.jpg",
-            description:
-                "seu madrogas cortano cabelo do seo barriga muito loko vida lokaaaaaaaaaaaa",
+            description: "Lore Ipsum",
         },
         {
             id: 3,
             title: "Sherek Mexicano",
             image: "../../public/Sherek_Face_Bugado.jpg",
-            description:
-                "seu madrogas vai descer o cacete no koichi agora to ate vendo slk",
+            description: "Lore Ipsum",
         },
         {
             id: 4,
             title: "Sherek Bugado",
             image: "../../public/Sherek_Face_Bugado.jpg",
-            description:
-                "seu madrogas cortano cabelo do seo barriga muito loko vida lokaaaaaaaaaaaa",
+            description: "Lore Ipsum",
         },
         {
             id: 5,
             title: "Sherek Mexicano",
             image: "../../public/Sherek_Face_Bugado.jpg",
-            description:
-                "seu madrogas vai descer o cacete no koichi agora to ate vendo slk",
+            description: "Lore Ipsum",
         },
         {
             id: 6,
             title: "Sherek Bugado",
             image: "../../public/Sherek_Face_Bugado.jpg",
-            description:
-                "Sherek Bugado cortano cabelo do seo barriga muito loko vida lokaaaaaaaaaaaa",
+            description: "Lore Ipsum",
         },
         {
             id: 7,
             title: "Sherek Mexicano",
             image: "../../public/Sherek_Face_Bugado.jpg",
-            description:
-                "Sherek Bugado vai descer o cacete no koichi agora to ate vendo slk",
+            description: "Lore Ipsum",
         },
         {
             id: 8,
             title: "Sherek Bugado",
             image: "../../public/Sherek_Face_Bugado.jpg",
-            description:
-                "Sherek Bugado cortano cabelo do seo barriga muito loko vida lokaaaaaaaaaaaa",
+            description: "Lore Ipsum",
         },
         {
             id: 9,
             title: "Sherek Mexicano",
             image: "../../public/Sherek_Face_Bugado.jpg",
-            description:
-                "Sherek Bugado cortano cabelo do seo barriga muito loko vida lokaaaaaaaaaaaa",
+            description: "Lore Ipsum",
         },
     ];
 
