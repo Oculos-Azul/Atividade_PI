@@ -17,7 +17,8 @@ export const Container = styled.div`
 `;
 
 export const Image = styled.div`
-    height: 120px;
+    height: ${(props) => (props.ID ? "150px" : "120px")};
+    width: ${(props) => (props.ID ? "250px" : "200px")};
 
     background-image: url(${(aqui1) => aqui1.src});
 
